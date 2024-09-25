@@ -46,7 +46,7 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![image](https://github.com/user-attachments/assets/784d0afa-d8c6-4d7d-8681-84e5c851ea37)
+![image]"C:\Users\acer\Downloads\WhatsApp Image 2024-09-03 at 11.56.54_ee7c78b6.jpg"
 
 
  
@@ -64,7 +64,7 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![image](https://github.com/user-attachments/assets/e947dcda-b023-4668-a955-a5faf0949702)
+ ![image]"C:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2024-09-03 114730.png"
 
 
 iv)	Creating the new test cell view
@@ -76,7 +76,7 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
-![image](https://github.com/user-attachments/assets/0f1eb390-537e-4915-a9d5-6855883745d4)
+![image]C:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2024-09-03 113355.png
 
 
  
@@ -90,19 +90,19 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
- ![image](https://github.com/user-attachments/assets/3aac50ec-bc0f-406e-be2e-a504b8afa8c9)
+ ![image]C:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2024-09-25 140129.png
 
 For Transient Analysis Settings and Output
  
  
- ![image](https://github.com/user-attachments/assets/92d14f32-8ba5-4fed-978a-38c360b8e305)
+ ![image]C:\Users\acer\Downloads\WhatsApp Image 2024-09-25 at 14.12.37_c4699907.jpg
 
- ![image](https://github.com/user-attachments/assets/b86fd87f-7a66-47f5-bc26-2b5f4cb5679d)
+ ![image]C:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2024-09-03 115313.png
 
  For DC Analysis Settings and Output
-![image](https://github.com/user-attachments/assets/0ee74107-e03a-4204-b685-83ced611c993)
+![image]C:\Users\acer\Downloads\WhatsApp Image 2024-09-25 at 12.58.51_cde758e5.jpg
 
-![image](https://github.com/user-attachments/assets/e6b8b6c7-378f-449e-82a5-72286f238b02)
+![image]"C:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2024-09-03 111410.png"
 
  
 
